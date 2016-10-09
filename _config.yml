@@ -1,0 +1,33 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://www.colinhho.com
+title: Colin H. Ho
+email: me@colinhho.com
+author: Colin H. Ho
+description: > # "Write an awesome description for your new site here.
+  Colin is a medical student currently living in Sydney, Australia.
+  Contact Colin from their page.
+copyright: 'Copyright &copy; 2016 Colin H. Ho. All Rights Reserved.'
+credits: ''
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: facebook
+    url: https://www.facebook.com/colinhho
+  - title: linkedin
+    url: https://www.linkedin.com/in/colinhho
+  - title: twitter
+    url: https://twitter.com/colinhho
